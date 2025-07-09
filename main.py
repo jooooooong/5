@@ -15,7 +15,7 @@ st.markdown("""
 # 📂 CSV 파일 불러오기
 # 파일명은 반드시 동일하게 유지하거나, 아래 경로 수정
 # -----------------------------
-df = pd.read_csv("population_in.csv")
+df = pd.read_csv("population(in) (1).csv")
 
 # -----------------------------
 # 🔍 데이터 기본 구조 확인
